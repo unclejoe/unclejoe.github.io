@@ -5,7 +5,6 @@ categories:
  - tutorial
 tags:
 ---
-
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
 <!-- more -->
@@ -175,3 +174,5 @@ since: 2013
 ## Browser support
 
 ![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+
