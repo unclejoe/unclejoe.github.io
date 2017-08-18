@@ -379,8 +379,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: chowdan
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -400,7 +400,7 @@ changyan:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-youyan_uid: 2141889
+#youyan_uid: 2141889
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
