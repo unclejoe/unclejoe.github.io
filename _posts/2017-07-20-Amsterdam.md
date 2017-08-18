@@ -4,6 +4,7 @@ description: 阿姆斯特丹（荷兰语：Amsterdam），華人有時也稱其�
 categories: 
  - tutorial
 tags:
+comments: true
 ---
 
 荷兰这个国家向来与水脱离不了关系，那么可以说傍水而居的阿姆斯特丹是欧洲最特别的运河之城。Amsterdam，原本的意思就是“阿姆斯特河上的一座大坝”，从城市的名字就能看出它和水的不解之缘了。
